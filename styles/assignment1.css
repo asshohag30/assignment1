@@ -24,3 +24,30 @@
     font-size: 15px;
     margin-top: 10px;
 }
+.history {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+
+}
+.history {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+
+}
+
+.history-content {
+    width: 500px;
+    padding-left: 100px;
+}
+
+.history h1{
+    font-size: 50px;
+}
+
+.history-content ul {
+    margin-top: 20px;
+}

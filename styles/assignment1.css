@@ -1,6 +1,26 @@
 *{
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-.banner-title{
- 
+.banner{
+    background-image: url('../images/banner/banner1.png');
+    height: 750px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-content{
+    width: 500px;
+    text-align: right;
+   padding-top: 300px;
+   margin-left: 50%;
+}
+.banner-content button{
+    background-color: orange;
+    border: 0;
+    padding: 10px 20px;
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
 }

@@ -123,3 +123,16 @@
     border: 0;
     font-size: 20px;
 }
+/* donte */
+.donate{
+    text-align: center;
+    padding: 50px;
+}
+.donate input{
+    height: 30px;
+    margin-top: 20px;
+}
+.donate button{
+    padding: 10px 15px; 
+    margin-top: 20px;
+}
